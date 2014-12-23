@@ -11,5 +11,3 @@ WORKDIR /home
 
 RUN curl get.pharo.org/stable+vm | bash
 RUN echo "Pharo installed"
-
-#CMD bash
